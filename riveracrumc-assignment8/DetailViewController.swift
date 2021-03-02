@@ -19,7 +19,7 @@ class DetailViewController: UIViewController {
     
     @IBOutlet weak var photo: UIImageView!
     var coffee : Coffee?;
-    
+    var test: String;
     
     override func viewDidLoad() {
         super.viewDidLoad()
